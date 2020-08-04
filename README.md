@@ -29,4 +29,4 @@
 ---
 
 <img align="center" alt="FrenchGap's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FrenchGap&show_icons=true&hide_border=true" />
-<img align="center" alt="FrenchGap's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide_border=true" />
+<img align="center" alt="FrenchGap's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrenchGap&layout=compact&hide_border=true" />
