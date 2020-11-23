@@ -1,7 +1,7 @@
 ### Hi there, I'm Peter - aka [FrenchGap](https://github.com/FrenchGap) 👋
 
 ## I'm a trainee Air Traffic Controller and self-taught developer
-- 🔭 I’m currently working on two main sites written in [Laravel](https://github.com/laravel/laravel)!
+- 🔭 I’m currently working on a REST API written in [Laravel](https://github.com/laravel/laravel) as well as a web platform written in [VueJS](https://vuejs.org/)!
 - 🌱 Nowadays, I am learning PHP and Vue.js
 - ⚡ Fun fact: I only truly started coding in January 2020 😂
 
