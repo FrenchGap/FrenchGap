@@ -1,9 +1,7 @@
 ### Hi there, I'm Peter - aka [FrenchGap](https://github.com/FrenchGap) 👋
 
 ## I'm a trainee Air Traffic Controller and self-taught developer
-- 🔭 I’m currently working on rewriting a tech stack from old PHP to brand new [React JS](https://reactjs.org/) with [Typescript](https://www.typescriptlang.org/) with a [Firebase backend](https://firebase.google.com/)!
-- 🌱 Nowadays, I am learning React JS, Typescript & Firebase
-- ⚡ Fun fact: I only truly started coding in January 2020 😂
+🔭 Working with Typescript, Angular and Firebase.
 
 ---
 
