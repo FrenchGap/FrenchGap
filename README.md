@@ -1,6 +1,6 @@
 ### Hi there, I'm Peter - aka [FrenchGap](https://github.com/FrenchGap) 👋
 
-## I'm a trainee Air Traffic Controller and self-taught developer
+## I'm an Air Traffic Controller and self-taught developer
 🔭 Working with Typescript, Angular and Firebase.
 
 ---
